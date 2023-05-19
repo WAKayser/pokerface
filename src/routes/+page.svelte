@@ -1,5 +1,4 @@
 <script>
-// todo: add back in focus to all the correct fields.
 import {onMount} from "svelte";
 
 let users = [];
